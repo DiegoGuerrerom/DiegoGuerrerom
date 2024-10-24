@@ -7,8 +7,6 @@ and the simulation or control of quantum and classical mechanical systems. Curre
 the Institute of Nuclear Sciences (ICN - UNAM) in the Structure of Matter Department, where I develop
 quantum computing algorithms.
 
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on a quantum perceptron algorithm to classify photons and identify light sources using quantum machine learning.
 - 🌱 I’m currently learning advanced concepts in quantum mechanics, quantum computing, and high-performance computing for optimization and simulation problems.
 - 👯 I’m looking to collaborate on projects involving quantum algorithms, quantum machine learning, and classical or quantum mechanical system simulations.
